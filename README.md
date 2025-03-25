@@ -1,6 +1,4 @@
-**About**
 
-This project was developed as part of an individual study assignment for the Internet Technology course at Saxion University of Applied Sciences.
 
 **Chat Application** 
 
